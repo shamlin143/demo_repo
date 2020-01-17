@@ -1,0 +1,43 @@
+body {
+    background-color: seashell;
+    margin: 0;
+    padding: 0;
+    font-family: "Georgia", "Times New Roman", 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+h1  {
+    color: teal;
+    background-color: black;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    color: red;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    width: 1024px;
+    margin: 0; align-content: center;
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
+    float: left;
+}
+#main-bio  {
+    width: 70%;
+}
+#contact-info {
+    width: 30%;
+}
