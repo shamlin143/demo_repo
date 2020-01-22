@@ -14,6 +14,11 @@ h1  {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 28px;
+}
+
+h2 {
+    font-size: default
 }
 
 a {
@@ -27,7 +32,7 @@ img {
 
 .container {
     width: 1024px;
-    margin: 0; align-content: center;
+    margin: 0 auto;
 }
 
 #main-bio,
@@ -40,4 +45,10 @@ img {
 }
 #contact-info {
     width: 30%;
+}
+
+#bio-image  {
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
 }

@@ -1,0 +1,29 @@
+.container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box
+{
+    background-color: blueviolet;
+    position: fixed;
+    height: 100px;
+    width: 100px;
+}
+.box-1
+{
+    background-color: blue;
+    position: relative;
+    height: 100px;
+    
+}
+.box-2
+{
+    background-color: lightcoral;
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    right: -10px;
+    bottom: -10px;
+}
